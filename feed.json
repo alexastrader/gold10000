@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GOLD10000 — Elliott Wave Analysis",
+    "description": "",
+    "home_page_url": "https://gold10000.gold",
+    "feed_url": "https://gold10000.gold/feed.json",
+    "user_comment": "",
+    "icon": "https://gold10000.gold/media/website/gold10000-og-2.png",
+    "author": {
+        "name": "Alex ManVal"
+    },
+    "items": [
+    ]
+}
